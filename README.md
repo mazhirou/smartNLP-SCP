@@ -59,8 +59,6 @@
 ├── scripts ######################### 执行脚本
 │&nbsp;&nbsp; ├── __init__.py
 │&nbsp;&nbsp; ├── jieba
-├── tests ######################### 测试单元
-│&nbsp;&nbsp; ├── readMe.txt
 └── tests ######################### 测试单元
     └── readMe.txt
 </pre>
